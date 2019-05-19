@@ -4,9 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
+    android:background="#FFEB3B"
     android:layout_height="match_parent"
     tools:context=".dam5">
     <TextView
+        android:layout_marginTop="30dp"
         android:layout_width="match_parent"
         android:textColor="#03A9F4"
         android:text="Aswan High Dam, Egypt"

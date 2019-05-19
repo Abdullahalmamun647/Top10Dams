@@ -5,9 +5,11 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
+    android:background="#FFEB3B"
     tools:context=".dams2">
 
     <TextView
+        android:layout_marginTop="30dp"
         android:layout_width="match_parent"
         android:textColor="#03A9F4"
         android:text="Zeya Dam, Russia"
